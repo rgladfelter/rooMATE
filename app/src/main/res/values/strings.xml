@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RooMATE</string>
+    <string name="facebook_app_id">467253923784779</string>
+    <string name="fb_login_protocol_scheme">fb467253923784779</string>
+    <string name="logout">Logout</string>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "207492995477",
+    "firebase_url": "https://roomate-26472.firebaseio.com",
+    "project_id": "roomate-26472",
+    "storage_bucket": "roomate-26472.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207492995477:android:7726718fb3ae71c1",
+        "android_client_info": {
+          "package_name": "edu.radford.rgladfelter.rooMATE"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207492995477-usbhshe4jn44rkfvdot9fssq7o6vmpa3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBazKkTVcsAnNOJmQkTJ6YlL21HGzCiPsw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
